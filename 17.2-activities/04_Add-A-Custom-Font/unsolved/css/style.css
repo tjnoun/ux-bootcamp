@@ -1,4 +1,7 @@
 /* Header Styles */
+.body{
+  font-family: 'Open Sans', sans-serif;
+}
 .header {
   background-image: url(../images/upsBackground.png);
   background-size: cover;
